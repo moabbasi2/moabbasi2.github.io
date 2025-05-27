@@ -218,5 +218,9 @@
       "name": "webex-app-icon-color-container",
       "color": "cobalt",
       "iconSet": "momentumBrandVisuals"
+    },
+    "pencil": {
+      "name": "edit-bold",
+      "color": "yellow"
     }
   }
