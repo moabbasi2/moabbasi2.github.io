@@ -205,10 +205,14 @@
       "color": "cobalt",
       "iconSet": "momentumBrandVisuals"
     },
-    "ai-agent": {
+    "aiagent": {
       "name": "swiftmatch-color",
       "color": "cobalt",
       "iconSet": "momentumBrandVisuals"
+    },
+    "aiagent2": {
+      "name": "bot-customer-assistant-bold",
+      "color": "lime"
     },
     "webex-icon": {
       "name": "webex-app-icon-color-container",
