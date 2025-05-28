@@ -180,6 +180,10 @@
     "name": "priority-circle-bold",
     "color": "orange"
     },
+    "chat-alert":{
+    "name": "priority-circle-bold",
+    "color": "blue"
+    },
     "alert2":{
     "name": "alert-bold",
     "color": "red"
