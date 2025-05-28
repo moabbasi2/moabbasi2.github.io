@@ -224,8 +224,8 @@
       "iconSet": "momentumBrandVisuals"
     },
     "pencil": {
-      "name": "edit-bold",
-      "color": "yellow"
+      "name": "edit-filled",
+      "color": "violet"
     },
       "web-login": {
       "name": "edit-bold",
