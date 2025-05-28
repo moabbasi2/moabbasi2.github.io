@@ -222,5 +222,9 @@
     "pencil": {
       "name": "edit-bold",
       "color": "yellow"
+    },
+      "web-login": {
+      "name": "edit-bold",
+      "color": "yellow"
     }
   }
