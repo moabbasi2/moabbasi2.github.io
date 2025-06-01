@@ -42,7 +42,7 @@
   },
   "Email": {
     "name": "email-bold",
-    "color": "red"
+    "color": "violet"
   },
   "SMS": {
     "name": "sms-filled",
@@ -134,7 +134,7 @@
   },
   "Trigger Sent to Server": {
     "name": "send-bold",
-    "color": "violet"
+    "color": "yellow"
   },
   "Email Survey": {
     "name": "survey-bold",
